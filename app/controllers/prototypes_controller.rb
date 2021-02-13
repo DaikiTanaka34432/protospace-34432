@@ -55,6 +55,5 @@ class PrototypesController < ApplicationController
   end
 
   # def move_to_index
-   
   # end
 end
